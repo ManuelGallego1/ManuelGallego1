@@ -48,8 +48,8 @@ Soy desarrollador enfocado en backend, pero con capacidad fullstack. Me gusta co
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelGallego1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManuelGallego1&theme=tokyonight" />
 </p>
 
 ---
@@ -102,14 +102,14 @@ Soy desarrollador enfocado en backend, pero con capacidad fullstack. Me gusta co
 
 - 📧 tu-email@gmail.com
 - 💼 LinkedIn: (ponlo)
-- 🐙 GitHub: https://github.com/TU-USUARIO
+- 🐙 GitHub: https://github.com/ManuelGallego1
 
 ---
 
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=ManuelGallego1&style=for-the-badge&color=blue" />
 </p>
 
 ---
