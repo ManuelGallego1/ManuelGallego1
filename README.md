@@ -69,14 +69,22 @@ Soy desarrollador enfocado en backend, pero con capacidad fullstack. Me gusta co
 
 ---
 
-### 📌 SafeTrip - OTP API
+### 📌 SafeTrip - Insurance Platform
 
-- 🔑 Generación y validación de OTP
-- 🐳 Docker
-- 🗄️ PostgreSQL + Redis
-- ☁️ MinIO + Harbor
+Sistema completo enfocado en la **venta y gestión de seguros**, no solo autenticación:
 
-**Stack:** Spring Boot + Docker + PostgreSQL + Redis
+- 🛡️ Venta de seguros (flujo completo de cotización a compra)
+- 💳 Integración con pasarela de pagos
+- 👥 Manejo de múltiples roles (usuarios, asesores, admins)
+- 🔐 Autenticación con OTP y validaciones avanzadas
+- 💰 Sistema de bolsas virtuales / saldos
+- 📊 Lógica de negocio compleja para pólizas
+- 🗄️ Gestión de clientes, asegurados y relaciones
+- 🐳 Infraestructura dockerizada y servicios desacoplados
+
+🌐 Live: https://www.safetrip.com.co/
+
+**Stack:** Spring Boot + Next.js + Docker + PostgreSQL + Redis + MinIO
 
 ---
 
@@ -100,8 +108,8 @@ Soy desarrollador enfocado en backend, pero con capacidad fullstack. Me gusta co
 
 ## 📫 Contact
 
-- 📧 tu-email@gmail.com
-- 💼 LinkedIn: (ponlo)
+- 📧 alejandrogallego030@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/manuel-alejandro-gallego-alarcon
 - 🐙 GitHub: https://github.com/ManuelGallego1
 
 ---
