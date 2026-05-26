@@ -56,7 +56,7 @@ Soy desarrollador enfocado en backend, pero con capacidad fullstack. Me gusta co
 
 ## 🚀 Featured Projects
 
-### 📌 Ditcom
+### 📌 RetailHub
 
 - 🔐 Autenticación + roles
 - 💬 Chat tipo WhatsApp
@@ -64,6 +64,8 @@ Soy desarrollador enfocado en backend, pero con capacidad fullstack. Me gusta co
 - 👥 Gestión de usuarios
 - 🏢 Sedes, móviles, planes
 - 🔔 Notificaciones
+
+🌐 Live: https://retailhub.nevdata.com.co/
 
 **Stack:** Laravel + React + Tailwind + MySQL
 
