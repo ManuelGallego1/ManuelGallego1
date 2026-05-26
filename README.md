@@ -67,7 +67,7 @@ Soy desarrollador enfocado en backend, pero con capacidad fullstack. Me gusta co
 
 🌐 Live: https://retailhub.nevdata.com.co/
 
-**Stack:** Laravel + React + Tailwind + MySQL
+**Stack:** Spring Boot + Next.js + Tailwind + PostgreSQL + Docker + WebSockets
 
 ---
 
